@@ -1,0 +1,92 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		4335F1D522B9521D00B1CD87 /* kosamui.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = kosamui.html; sourceTree = "<group>"; };
+		4335F1D622B9B49200B1CD87 /* desktop.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = desktop.css; sourceTree = "<group>"; };
+		4335F1D822B9B83300B1CD87 /* portrait.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = portrait.css; sourceTree = "<group>"; };
+		43503F5222B2B1010042FE49 /* zines.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = zines.html; sourceTree = "<group>"; };
+		437AB31622AEB9330066D138 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		437AB31822AEE8B50066D138 /* breathe.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = breathe.html; sourceTree = "<group>"; };
+		437AB31922AEE8D20066D138 /* summermisadventures.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = summermisadventures.html; sourceTree = "<group>"; };
+		437AB31A22AEE8E60066D138 /* budapest.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = budapest.html; sourceTree = "<group>"; };
+		437AB31B22AEE8FB0066D138 /* about.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = about.html; sourceTree = "<group>"; };
+		437AB31C22AEE9300066D138 /* contact.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = contact.html; sourceTree = "<group>"; };
+		438CCDA422C03EF600CE5C01 /* barcelona.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = barcelona.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		437AB30F22AEB8C80066D138 = {
+			isa = PBXGroup;
+			children = (
+				437AB31622AEB9330066D138 /* index.html */,
+				437AB31B22AEE8FB0066D138 /* about.html */,
+				43503F5222B2B1010042FE49 /* zines.html */,
+				437AB31C22AEE9300066D138 /* contact.html */,
+				437AB31822AEE8B50066D138 /* breathe.html */,
+				437AB31922AEE8D20066D138 /* summermisadventures.html */,
+				4335F1D522B9521D00B1CD87 /* kosamui.html */,
+				438CCDA422C03EF600CE5C01 /* barcelona.html */,
+				437AB31A22AEE8E60066D138 /* budapest.html */,
+				4335F1D622B9B49200B1CD87 /* desktop.css */,
+				4335F1D822B9B83300B1CD87 /* portrait.css */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		437AB31022AEB8C80066D138 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1010;
+			};
+			buildConfigurationList = 437AB31322AEB8C80066D138 /* Build configuration list for PBXProject "patrickmccarthy" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 437AB30F22AEB8C80066D138;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		437AB31422AEB8C80066D138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		437AB31522AEB8C80066D138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		437AB31322AEB8C80066D138 /* Build configuration list for PBXProject "patrickmccarthy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				437AB31422AEB8C80066D138 /* Debug */,
+				437AB31522AEB8C80066D138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 437AB31022AEB8C80066D138 /* Project object */;
+}
